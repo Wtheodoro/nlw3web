@@ -36,7 +36,7 @@
     font-weight: 800;
 }
 
-#page-map .leaflet-countainer {
+#page-map .leaflet-container {
     z-index: 5;
 }
 
